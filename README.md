@@ -1,9 +1,10 @@
 # 🚀 KAGAT: Kolmogorov-Arnold Graph Attention Network
 
-> **ICIC 2025 Accepted Paper**
+> **ICIC 2025 Accepted Paper (Oral)**
 >   
 > **This repository includes the defination of our proposed all five KAGAT variants in the paper:  
-> KAGAT-NA1, KAGAT-NA2, KAGAT-AT, KAGAT-NA1-AT and KAGAT-NA2-AT.**    
+> KAGAT-NA1, KAGAT-NA2, KAGAT-AT, KAGAT-NA1-AT and KAGAT-NA2-AT.**
+
 > **Full Paper Available at**: https://link.springer.com/chapter/10.1007/978-981-96-9946-9_22
 ## 🔍 Abstract
 We introduce **KAGAT** - a novel fusion of Kolmogorov-Arnold Networks (KAN) with Graph Attention Networks (GAT). By leveraging KAN's superior high-dimensional learning capabilities and GAT's attention-based neighborhood aggregation, we propose **five innovative architectures** that consistently outperform classic GNNs (GCN, GAT, GATv2, GIN) and existing KAN-based GNNs on node classification tasks across multiple datasets.
