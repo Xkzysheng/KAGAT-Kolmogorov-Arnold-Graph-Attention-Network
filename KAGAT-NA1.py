@@ -8,7 +8,7 @@ from torch_geometric.utils import softmax
 grid_size=5     # default 5
 spline_order=3   # default 3
 
-# Sparse
+# KAGAT-NA1 Layer (Sparse Graph)
 class KANGraphAttentionLayerARC1(nn.Module):
     def __init__(self, in_features, out_features, dropout):
         super(KANGraphAttentionLayerARC1, self).__init__()
@@ -34,7 +34,7 @@ class KANGraphAttentionLayerARC1(nn.Module):
         h = self.KAN(h)
         return h
 
-# Sparse
+# KAGAT-NA1 2-Layer Model
 class KAGATa1(nn.Module):
     def __init__(self, nfeat, nhid, nclass, dropout, nheads):
         super(KAGATa1, self).__init__()
