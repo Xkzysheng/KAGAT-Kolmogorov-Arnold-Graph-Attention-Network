@@ -1,4 +1,4 @@
-# This KAN Layer is consist with 
+# Our KAN Layer is consist with https://github.com/Blealtan/efficient-kan
 
 class KANLayer(torch.nn.Module):
     def __init__(
