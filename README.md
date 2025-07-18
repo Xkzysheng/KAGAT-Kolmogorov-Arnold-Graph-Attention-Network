@@ -6,6 +6,8 @@
 > KAGAT-NA1, KAGAT-NA2, KAGAT-AT, KAGAT-NA1-AT and KAGAT-NA2-AT.**
 >   
 > **Full Paper Available at**: https://link.springer.com/chapter/10.1007/978-981-96-9946-9_22
+>
+> **Our KAN Layer is consist with this B-spline based KAN: https://github.com/Blealtan/efficient-kan**
 ## 🔍 Abstract
 We introduce **KAGAT** - a novel fusion of Kolmogorov-Arnold Networks (KAN) with Graph Attention Networks (GAT). By leveraging KAN's superior high-dimensional learning capabilities and GAT's attention-based neighborhood aggregation, we propose **five innovative architectures** that consistently outperform classic GNNs (GCN, GAT, GATv2, GIN) and existing KAN-based GNNs on node classification tasks across multiple datasets.
 
@@ -37,5 +39,4 @@ We introduce **KAGAT** - a novel fusion of Kolmogorov-Arnold Networks (KAN) with
 - 🥇 **Best performance** on 4/5 datasets
 - 📈 **Average accuracy gain**: +1.5% over vanilla GAT
 - 💡 **KAN synergy**: Combined NA+AT variants outperform single-component integrations
-- ⚖️ **Parameter efficiency**: Superiority persists even with parameter alignment  
-## Our KAN Layer is consist with this B-spline based KAN: https://github.com/Blealtan/efficient-kan
+- ⚖️ **Parameter efficiency**: Superiority persists even with parameter alignment
