@@ -1,6 +1,6 @@
 # 🚀 KAGAT: Kolmogorov-Arnold Graph Attention Network
 
-> **ICIC 2025 Accepted Paper**
+> **ICIC 2025 Accepted Paper**  
 
 > **Available at**: https://link.springer.com/chapter/10.1007/978-981-96-9946-9_22
 ## 🔍 Abstract
