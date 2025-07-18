@@ -1,6 +1,7 @@
 # 🚀 KAGAT: Kolmogorov-Arnold Graph Attention Network
 
-> **ICIC 2025 Accepted Paper**    
+> **ICIC 2025 Accepted Paper**
+>   
 > **This repository includes the defination of our proposed all five KAGAT variants in the paper:  
 > KAGAT-NA1, KAGAT-NA2, KAGAT-AT, KAGAT-NA1-AT and KAGAT-NA2-AT.**    
 > **Full Paper Available at**: https://link.springer.com/chapter/10.1007/978-981-96-9946-9_22
