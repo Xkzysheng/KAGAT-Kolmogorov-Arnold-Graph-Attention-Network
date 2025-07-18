@@ -5,10 +5,6 @@
 ## 🔍 Abstract
 We introduce **KAGAT** - a novel fusion of Kolmogorov-Arnold Networks (KAN) with Graph Attention Networks (GAT). By leveraging KAN's superior high-dimensional learning capabilities and GAT's attention-based neighborhood aggregation, we propose **five innovative architectures** that consistently outperform classic GNNs (GCN, GAT, GATv2, GIN) and existing KAN-based GNNs on node classification tasks across multiple datasets.
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x250?text=Model+Architecture+Diagram" alt="KAGAT Architecture">
-</p>
-
 ## 🌟 Key Contributions
 1. **Novel Hybrid Framework**
    First integration of KAN (ICLR'25) with GAT (ICLR'18)
