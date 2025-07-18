@@ -38,4 +38,4 @@ We introduce **KAGAT** - a novel fusion of Kolmogorov-Arnold Networks (KAN) with
 - 📈 **Average accuracy gain**: +1.5% over vanilla GAT
 - 💡 **KAN synergy**: Combined NA+AT variants outperform single-component integrations
 - ⚖️ **Parameter efficiency**: Superiority persists even with parameter alignment  
-##Our KAN Layer is consist with this B-spline based KAN: https://github.com/Blealtan/efficient-kan
+## Our KAN Layer is consist with this B-spline based KAN: https://github.com/Blealtan/efficient-kan
